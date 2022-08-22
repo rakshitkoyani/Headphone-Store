@@ -7,11 +7,15 @@ This template is made purely using HTML and CSS for an online headphone store.
 - HTML5 - Hyper Text Markup Language
 - CSS3 - Cascading Spread Sheet
 
-## Demo
+## 1. Desktop screen Demo
 
 ![Project-7.png](./Project-7.png)
 
-## Run Locally
+## Mobile screen Demo
+
+![Project-7.png](./Project-7-mobile.png)
+
+## 2. Run Locally
 
 Clone the project
 
@@ -44,4 +48,4 @@ It takes me around 2 hours to complete me this project.
 
 ## Live link of the project
 
-https://rakshitkoyani.github.io/Headphone-Store/
+https://headphone-product-design.netlify.app/
